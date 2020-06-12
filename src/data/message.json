@@ -1,0 +1,30 @@
+{
+    "config": {},
+    "screens": [
+        {
+            "id": "message",
+            "type": "screen",
+            "content": [
+                { "type": "text", "className": "alert", "text": ">> TOP SECRET :: ASSET 22S-C EYES ONLY <<" },
+                "",
+                "Eleven weeks ago, a routine status update from the YPSILON-14 mining station was received, indicating the presence of an unidentified, possibly organic substance, informally referred to as 'yellow goo'. Our science division took an interest and immediately dispatched their nearest asset, DR. ETHAN GIOVANNI, aboard the HERECLES.",
+                "",
+                "Six weeks ago, Giovanni arrived and began his investigation. His initial reports confirmed suspicions that the substance was of XENOBIOLOGICAL, possibly even TRANSDIMENIONAL, origins.",
+                "",
+                "Two weeks ago, Giovanni stopped transmitting reports and the Herecles stopped responding to hails. We believe he may have been compromised.",
+                "",
+                "Your ship has been diverted from its original course to Ypsilon-14 under the guise of accepting a shipment of ore before returning to port.",
+                "",
+                "Your primary mission is to retrieve a sample of the substance and return it safely to headquarters, at all costs. Your secondary missions are discover the whereabouts and status of Dr. Giovanni and to retrieve his data. His wellbeing is not our concern.",
+                "",
+                "Operational secrecy is to be maintained.",
+                "",
+                { "type": "text", "className": "alert", "text": ">> Destruction of corporate property is authorized but discouraged. <<" },
+                { "type": "text", "className": "alert", "text": ">> Use of lethal force is authorized but discouraged. <<" },
+                "",
+                "END OF MESSAGE"
+            ]
+        }
+    ],
+    "dialogs": []
+}
